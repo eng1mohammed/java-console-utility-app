@@ -30,6 +30,7 @@ The application is designed with a modular structure using multiple classes and 
 ### 1. Compile the project:
 ```bash
 javac *.java
+
 ### 2. Run the application:
 ```bash
 java MainApp
